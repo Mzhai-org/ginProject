@@ -1,0 +1,26 @@
+[GIN-VUE-ADMIN]2021/03/13 - 12:05:32.551	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/core/server.go:20	服务正在启动，port	{"adress": "8085"}
+[GIN-VUE-ADMIN]2021/03/13 - 12:07:36.692	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/core/server.go:21	服务正在启动，port	{"adress": ":8085"}
+[GIN-VUE-ADMIN]2021/03/13 - 12:07:48.447	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/core/server.go:21	服务正在启动，port	{"adress": "8085"}
+[GIN-VUE-ADMIN]2021/03/13 - 12:07:48.447	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/core/server.go:22	listen tcp: address 8085: missing port in address
+[GIN-VUE-ADMIN]2021/03/13 - 12:08:01.906	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/core/server.go:21	服务正在启动，port	{"adress": ":8085"}
+[GIN-VUE-ADMIN]2021/03/13 - 16:10:53.763	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/main.go:31	数据库连接成功，初始化数据表
+[GIN-VUE-ADMIN]2021/03/13 - 16:10:53.787	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/initialize/gorm.go:82	register table success
+[GIN-VUE-ADMIN]2021/03/13 - 16:10:53.787	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/core/server.go:21	服务正在启动，port	{"adress": ":8085"}
+[GIN-VUE-ADMIN]2021/03/13 - 16:14:09.038	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/main.go:31	数据库连接成功，初始化数据表
+[GIN-VUE-ADMIN]2021/03/13 - 16:14:09.068	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/initialize/gorm.go:82	register table success
+[GIN-VUE-ADMIN]2021/03/13 - 16:14:09.068	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/core/server.go:21	服务正在启动，port	{"adress": ":8085"}
+[GIN-VUE-ADMIN]2021/03/13 - 16:26:08.556	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/initialize/gorm.go:41	MySQL启动成功
+[GIN-VUE-ADMIN]2021/03/13 - 16:26:08.556	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/main.go:31	数据库连接成功，初始化数据表
+[GIN-VUE-ADMIN]2021/03/13 - 16:26:08.557	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/initialize/gorm.go:74	根据model正向生成数据库表
+[GIN-VUE-ADMIN]2021/03/13 - 16:26:08.568	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/initialize/gorm.go:82	register table success
+[GIN-VUE-ADMIN]2021/03/13 - 16:26:08.568	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/core/server.go:21	服务正在启动，port	{"adress": ":8085"}
+[GIN-VUE-ADMIN]2021/03/13 - 17:05:01.525	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/initialize/gorm.go:41	MySQL启动成功
+[GIN-VUE-ADMIN]2021/03/13 - 17:05:01.525	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/main.go:30	数据库连接成功，初始化数据表
+[GIN-VUE-ADMIN]2021/03/13 - 17:05:01.525	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/initialize/gorm.go:73	根据model正向生成数据库表
+[GIN-VUE-ADMIN]2021/03/13 - 17:05:01.531	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/initialize/gorm.go:81	register table success
+[GIN-VUE-ADMIN]2021/03/13 - 17:05:01.532	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/core/server.go:21	服务正在启动，port	{"adress": ":8085"}
+[GIN-VUE-ADMIN]2021/03/13 - 17:08:07.920	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/initialize/gorm.go:41	MySQL启动成功
+[GIN-VUE-ADMIN]2021/03/13 - 17:08:07.921	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/main.go:30	数据库连接成功，初始化数据表
+[GIN-VUE-ADMIN]2021/03/13 - 17:08:07.921	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/initialize/gorm.go:73	根据model正向生成数据库表
+[GIN-VUE-ADMIN]2021/03/13 - 17:08:07.930	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/initialize/gorm.go:81	register table success
+[GIN-VUE-ADMIN]2021/03/13 - 17:08:07.930	[34minfo[0m	/home/zhaishuo/Go_WorkSpace/ginProject/core/server.go:21	服务正在启动，port	{"adress": ":8085"}
